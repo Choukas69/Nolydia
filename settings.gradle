@@ -1,0 +1,5 @@
+rootProject.name = 'Nolydia'
+include 'Bungee'
+include 'Bukkit'
+include 'Common'
+include 'Lobby'
